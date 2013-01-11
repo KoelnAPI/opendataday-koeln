@@ -225,26 +225,15 @@
                     </div>
                 </div>
 
-                <!--
                 <div class="row participants">
                     <div class="span10 offset1">
-                        <a href=""><img src="http://placehold.it/48x48" class="img-polaroid" width="48" height="48" alt=""></a>
-                        <img src="http://placehold.it/48x48" class="img-polaroid" width="48" height="48" alt="">
-                        <img src="http://placehold.it/48x48" class="img-polaroid" width="48" height="48" alt="">
-                        <img src="http://placehold.it/48x48" class="img-polaroid" width="48" height="48" alt="">
-                        <img src="http://placehold.it/48x48" class="img-polaroid" width="48" height="48" alt="">
-                        <img src="http://placehold.it/48x48" class="img-polaroid" width="48" height="48" alt="">
-                        <img src="http://placehold.it/48x48" class="img-polaroid" width="48" height="48" alt="">
-                        <img src="http://placehold.it/48x48" class="img-polaroid" width="48" height="48" alt="">
-                        <img src="http://placehold.it/48x48" class="img-polaroid" width="48" height="48" alt="">
-                        <img src="http://placehold.it/48x48" class="img-polaroid" width="48" height="48" alt="">
-                        <img src="http://placehold.it/48x48" class="img-polaroid" width="48" height="48" alt="">
-                        <img src="http://placehold.it/48x48" class="img-polaroid" width="48" height="48" alt="">
-                        <img src="http://placehold.it/48x48" class="img-polaroid" width="48" height="48" alt="">
-                        <img src="http://placehold.it/48x48" class="img-polaroid" width="48" height="48" alt="">
+                        <?php
+
+                        @include './participants.inc.html'
+                        
+                        ?>
                     </div>
                 </div>
-                -->
 
                 <div class="row">
                     <div class="span9 offset1">
