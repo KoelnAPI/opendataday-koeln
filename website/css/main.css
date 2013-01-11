@@ -1,0 +1,95 @@
+body {
+    margin-top: 5em;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 1.4em;
+    background-color: #95c7cb;
+}
+
+/*
+font-family: 'Gloria Hallelujah', cursive;
+
+
+
+
+font-family: 'Raleway Dots', cursive;
+
+*/
+
+h1,h2 {
+    font-family: 'Stint Ultra Expanded', cursive;
+    font-weight: 400;
+}
+h1 {
+    font-size: 4em;
+    line-height: 2em;
+}
+h2 {
+    font-size: 2.8em;
+    line-height: 1.6em;
+    margin-bottom: 1em;
+}
+h1, h2, h3, h4 {
+    color: white;
+}
+
+strong {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+#start .claim {
+    text-align: right;
+    font-family: 'Stint Ultra Expanded', cursive;
+    font-size: 1.5em;
+    line-height: 1.5em;
+    color: black;
+    font-weight: 400;
+    margin-top: 4em;
+    margin-bottom: 0em;
+}
+
+.section {
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+#termin .anreise {
+    margin-top: 2em;
+}
+
+#programm .row {
+    margin-bottom: 1em;
+}
+
+#programm .time {
+    text-align: right;
+}
+
+.participants {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    line-height: 62px;
+}
+
+.sponsorlabel {
+    text-align: right;
+    padding: 1em 0;
+}
+.sponsorlogo {
+    background: white;
+    padding: 1em 2em 1em 2em;
+}
+
+#opendata .intro {
+    padding-bottom: 2em;
+}
+
+#share .well {
+    text-align: center;
+}
+
+a:hover img {
+    background-color: #d8f9fc;
+}
