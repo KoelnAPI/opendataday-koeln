@@ -8,6 +8,7 @@ sie in einen lokalen Cache
 import urllib
 import simplejson as json
 from urlparse import urlparse
+import sys
 
 OUTPUT_PATH = '/var/www/opendataday.koeln.de/opendataday-koeln/website/participants.inc.html'
 
@@ -41,6 +42,8 @@ def get_twitter_user_info(username):
 
 if __name__ == '__main__':
     twitter_users = get_twitter_users()
+    if len(twitter_users) == 0:
+        sys.exit(1)
     f = open(OUTPUT_PATH, 'w')
     template = '<a href="%s" target="_blank" title="%s"><img src="%s" class="img-polaroid" width="48" height="48" alt="%s" /></a>'
     for user in twitter_users:
