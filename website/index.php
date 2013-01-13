@@ -477,7 +477,7 @@
                             <div id="socialshareprivacy"></div>
                         </div>
 
-                        <p>Diese Site nutzt unter anderem <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap</a> und <a href="http://glyphicons.com/" target="_blank">Glyphicons</a>. Danke!</p>
+                        <p>Diese Site nutzt unter anderem <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap</a> und <a href="http://glyphicons.com/" target="_blank">Glyphicons</a>. Die Subdomain verdanken wir <a href="http://koeln.de/" target="_blank">koeln.de</a>. Danke!</p>
                     </div>
                 </div>
             </div>
