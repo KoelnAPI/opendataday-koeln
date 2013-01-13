@@ -329,12 +329,15 @@
 
             <div id="anderswo" class="section">
                 <div class="row">
+                    <div class="span7 offset4">
+                        <h2>Anderswo</h2>
+                    </div>
+                </div>
+                <div class="row">
                     <div class="span3 offset1">
                         Folge uns auf Twitter: <a href="https://twitter.com/oddcgn" target="_blank">@oddcgn</a>
                     </div>
-                    <div class="span7 offset4">
-
-                        <h2>Anderswo</h2>
+                    <div class="span7">
 
                         <a class="twitter-timeline" href="https://twitter.com/search?q=%23oddcgn" data-widget-id="289767219301318656">Tweets über "#oddcgn"</a>
                         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
