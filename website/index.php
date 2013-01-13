@@ -263,9 +263,18 @@
                         Die Räumlichkeiten verdanken wir
                     </div>
                     <div class="span7 sponsorlogo">
-                        <a href="http://www.startplatz.de/" target="_blank"><img src="/img/startplatz.png" width="200" height="90" alt="STARTPLATZ"></a>
+                        <a href="http://www.startplatz.de/" target="_blank" style="margin-right: 1em"><img src="/img/startplatz.png" width="200" height="90" alt="STARTPLATZ"></a>
 
-                        <a href="http://www.coworkingcologne.de/" target="_blank"><img src="/img/cowoco.png" width="210" height="137" alt="Coworking Cologne"></a>
+                        <a href="http://www.coworkingcologne.de/" target="_blank"><img src="/img/cowoco2.png" width="309" height="100" alt="Coworking Cologne"></a>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="span2 offset1 sponsorlabel">
+                        Medienpartner
+                    </div>
+                    <div class="span7 sponsorlogo">
+                        <a href="http://www.nerdhub.de/" target="_blank"><img src="/img/nerdhub.png" width="200" height="100" alt="NERDHUB"></a>
                     </div>
                 </div>
 
@@ -337,7 +346,7 @@
             <div id="opendata" class="section">
 
                 <div class="row intro">
-                    <div class="span11">
+                    <div class="span10 offset1">
 
                         <h2>Open Data</h2>
 
@@ -384,7 +393,7 @@
                 </div>
 
                 <div class="row intro">
-                    <div class="span11">
+                    <div class="span10 offset1">
 
 
                         -->
@@ -399,23 +408,21 @@
                 </div>
 
                 <div class="row">
-                    <div class="span3"><strong>Stadt Köln</strong></div>
+                    <div class="span2 offset1"><strong>Stadt Köln</strong></div>
                     <div class="span8">
-
                         <p>Die Stadt Köln hat sich das Ziel gesetzt, die Veröffentlichung von Datenbeständen zur Regel zu machen, sofern keine Ausschlusskriterien wie Datenschutz oder Geheimhaltung dagegen sprechen. Auf der Website <a href="http://www.offenedaten-koeln.de/">offenedaten-koeln.de</a> gibt es bereits einige Datenangebote, darunter Daten zum kommunalen Haushalt, ein Veranstaltungskalender und Geodaten zu Stadtbezirken und Stadtteilen.</p>
                     </div>
                 </div>
 
                 <div class="row">
-                    <div class="span3"><strong>Offenes Köln</strong></div>
+                    <div class="span2 offset1"><strong>Offenes Köln</strong></div>
                     <div class="span8">
-
                         <p>Die Plattform <a href="http://offeneskoeln.de/" target="_blank">Offenes Köln</a> bietet Open Data &raquo;von unten&laquo; und stellt Inhalte aus dem zur Kölner Stadtrat und anderen lokalpolitischen Gremien über eine offene <a href="http://offeneskoeln.de/api/" target="_blank">API</a> zur Verfügung. Darüber hinaus finden sich im Blog von Offenes Köln unter dem Stichwort <a href="http://blog.offeneskoeln.de/tag/datendienstag/" target="_blank">Datendienstag</a> weitere interessante Datensätze, die im Sinne von Open Data aufbereitet wurden.</p>
                     </div>
                 </div>
 
                 <div class="row">
-                    <div class="span3"><strong>Bibliotheken NRW</strong></div>
+                    <div class="span2 offset1"><strong>Bibliotheken NRW</strong></div>
                     <div class="span8">
 
                         <p>Ein spezielles Open-Data-Angebot liefern auch die <a href="http://opendata.hbz-nrw.de/" target="_blank">nordrhein-westfälischen Bibliotheken</a>, die ihre Kataloge (also bibliografische Metadaten) über offene Schnittstellen bereitstellen. Dazu zählen auch die Kölner Universitäts- und Stadtbibliothek, die sportwissenschaftliche Bibliothek der Sporthochschule Köln und die Bibliothek der Fachhochschule Köln.</p>
@@ -423,35 +430,35 @@
                 </div>
 
                 <div class="row">
-                    <div class="span3"><strong>Landesdatenbank NRW</strong></div>
+                    <div class="span2 offset1"><strong>Landesdatenbank NRW</strong></div>
                     <div class="span8">
                         <p>Die <a href="https://www.landesdatenbank.nrw.de/ldbnrw/online/logon" target="_blank">Landesdatenbank NRW</a> ist das statistische Informationssystem des Landes Nordrhein-Westfalen. Hier findet man zahlreiche statistische Datensätze sowie Wahlergebnisse. Tabellarische Daten können grundsätzlich als CSV, EXCEL und HTML abgerufen werden. Die Plattform basiert auf der Software GENESIS, die auch eine Webservice-Schnittstelle (SOAP) für den automatisierten Datenabruf bietet. Alle Daten unterliegen einer offenen Attribution-Lizenz, d.h. nur die Quelle muss angegeben werden.</p>
                     </div>
                 </div>
 
                 <div class="row">
-                    <div class="span3"><strong>Destatis</strong></div>
+                    <div class="span2 offset1"><strong>Destatis</strong></div>
                     <div class="span8">
                         <p>Das <a href="https://www-genesis.destatis.de/genesis/online" target="_blank">statistische Bundesamt</a> betreibt, wie auch die Landesdatenbank NRW, eine umfangreiche Statistik-Plattform, auf der sämtliche tabellarische Daten als CSV, EXCEL und HTML abgerufen werden können. Die Plattform basiert auf der Software GENESIS, die auch eine Webservice-Schnittstelle (SOAP) für den automatisierten Datenabruf bietet.</p>
                     </div>
                 </div>
 
                 <div class="row">
-                    <div class="span3"><strong>Hydrologische Daten</strong></div>
+                    <div class="span2 offset1"><strong>Hydrologische Daten</strong></div>
                     <div class="span8">
                         <p>Pegelstände, Wassertemperatur, Niederschläge und Gewässergüte für NRW können seit Anfang 2013 als <a href="http://luadb.lds.nrw.de/LUA/hygon/pegel.php?rohdaten=ja" target="_blank">Rohdaten</a> von einer gemeinsamen Download-Seite herunter geladen werden. Die Nutzungsbedingungen sind eher restriktiv und ggf. mit dem LANUV (Landesamt für Natür, Umwelt und Verbraucherschutz NRW) zu klären.</p>
                     </div>
                 </div>
                 
                 <div class="row">
-                    <div class="span3"><strong>Open Weather Map</strong></div>
+                    <div class="span2 offset1"><strong>Open Weather Map</strong></div>
                     <div class="span8">
                         <p>Das Projekt <a href="http://openweathermap.org/" target="_blank">Open Weather Map</a> bietet über seine <a href="http://openweathermap.org/API" target="_blank">API</a> den Zugriff auf die Daten von über 40.000 Wetterstationen an, auch aus dem Kölner Umland. Die Lizenz ist offen.</p>
                     </div>
                 </div>
 
                 <div class="row">
-                    <div class="span3"><strong>OpenStreetMap</strong></div>
+                    <div class="span2 offset1"><strong>OpenStreetMap</strong></div>
                     <div class="span8">
                         <p>Nicht zuletzt bietet das OpenStreetmap-Projekt einen riesigen Bestand an nutzergenerierten, offen lizenzierten Geodaten.</p>
                     </div>
