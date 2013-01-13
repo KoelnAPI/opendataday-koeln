@@ -329,6 +329,9 @@
 
             <div id="anderswo" class="section">
                 <div class="row">
+                    <div class="span3 offset1">
+                        Folge uns auf Twitter: <a href="https://twitter.com/oddcgn" target="_blank">@oddcgn</a>
+                    </div>
                     <div class="span7 offset4">
 
                         <h2>Anderswo</h2>
