@@ -40,7 +40,7 @@
                       <li><a href="#termine">Termine</a></li>
                       <li><a href="#programm">Programm</a></li>
                       <li><a href="#mitmachen">Mitmachen</a></li>
-                      <li><a href="#sponsoren">Sponsoren</a></li>
+                      <li><a href="#partner">Partner</a></li>
                       <li><a href="#community">Community</a></li>
                       <li><a href="#anderswo">Anderswo</a></li>
                       <li><a href="#opendata">Open Data</a></li>
@@ -251,12 +251,25 @@
 
             </div>
 
-            <div id="sponsoren" class="section">
+            <div id="partner" class="section">
                 <div class="row">
                     <div class="span10 offset1">
 
-                        <h2>Sponsoren</h2>
+                        <h2>Partner und Sponsoren</h2>
 
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="span2 offset1 sponsorlabel">
+                        Sponsoren gesucht
+                    </div>
+                    <div class="span7 sponsorlogo">
+                        <p>Hier könnte auch Dein/Ihr Logo stehen. Wir suchen Sponsoren für die Unterstützung bei den Verpflegungskosten.</p>
+
+                        <p>Eine besondere Sponsoring-Gelegenheit ist die Auszeichnung &raquo;Projekt des Tages&laquo;, die mit Sachpreisen belohnt werden soll.</p>
+
+                        <p>Kontakt:<br>Julia Schäfer, STARTPLATZ<br><i class="icon-bell"></i>&nbsp;<a href="tel:+49 221 975 802 00">+49 221 975 802 00</a><br><i class="icon-envelope"></i>&nbsp;<a href="mailto:julia.schaefer@startplatz.de">julia.schaefer@startplatz.de</a></p>
                     </div>
                 </div>
 
@@ -265,7 +278,7 @@
                         Die Räumlichkeiten verdanken wir
                     </div>
                     <div class="span7 sponsorlogo">
-                        <a href="http://www.startplatz.de/" target="_blank" style="margin-right: 1em"><img src="/img/startplatz.png" width="200" height="90" alt="STARTPLATZ"></a>
+                        <a href="http://www.startplatz.de/" target="_blank" style="margin-right: 2em"><img src="/img/startplatz.png" width="200" height="90" alt="STARTPLATZ"></a>
 
                         <a href="http://www.coworkingcologne.de/" target="_blank"><img src="/img/cowoco2.png" width="309" height="100" alt="Coworking Cologne"></a>
                     </div>
@@ -276,7 +289,7 @@
                         Medienpartner
                     </div>
                     <div class="span7 sponsorlogo">
-                        <a href="http://www.nerdhub.de/" target="_blank"><img src="/img/nerdhub.png" width="200" height="100" alt="NERDHUB"></a>
+                        <a href="http://www.nerdhub.de/" target="_blank" style="margin-right: 2em"><img src="/img/nerdhub.png" width="200" height="100" alt="NERDHUB"></a>
 
                         <a href="http://www.creative.nrw.de/" target="_blank"><img src="/img/creativenrw.png" width="250" height="100" alt="CREATIVE.NRW"></a>
                     </div>
@@ -301,18 +314,7 @@
                 </div>
                 -->
 
-                <div class="row">
-                    <div class="span2 offset1 sponsorlabel">
-                        Sponsoren gesucht
-                    </div>
-                    <div class="span7 sponsorlogo">
-                        <p>Hier könnte auch Dein/Ihr Logo stehen. Wir suchen Sponsoren für die Unterstützung bei den Verpflegungskosten.</p>
-
-                        <p>Eine besondere Sponsoring-Gelegenheit ist die Auszeichnung &raquo;Projekt des Tages&laquo;, die mit Sachpreisen belohnt werden soll.</p>
-
-                        <p>Kontakt:<br>Julia Schäfer, STARTPLATZ<br><i class="icon-bell"></i>&nbsp;<a href="tel:+49 221 975 802 00">+49 221 975 802 00</a><br><i class="icon-envelope"></i>&nbsp;<a href="mailto:julia.schaefer@startplatz.de">julia.schaefer@startplatz.de</a></p>
-                    </div>
-                </div>
+                
             </div>
 
 
