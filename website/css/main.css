@@ -7,18 +7,8 @@ body {
     background-color: #95c7cb;
 }
 
-/*
-font-family: 'Gloria Hallelujah', cursive;
-
-
-
-
-font-family: 'Raleway Dots', cursive;
-
-*/
-
 h1,h2 {
-    font-family: 'Stint Ultra Expanded', cursive;
+    font-family: 'Stint Ultra Expanded', "Courier New", cursive;
     font-weight: 400;
 }
 h1 {
