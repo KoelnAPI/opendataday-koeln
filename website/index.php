@@ -221,6 +221,8 @@
 
                         <p>Der Open Data Day ist eine <strong>offene</strong>, für die Teilnehmer <strong>kostenlose</strong> Veranstaltung. Jeder, der an Open Data interessiert ist, kann teilnehmen.</p>
 
+                        <p>Wir möchten, dass der Open Data Day eine <strong>interdisziplinäre</strong> Veranstaltung wird. Neben Entwicklerinnen und Entwicklern laden wir Designer-/innen, Journalistinnen und Journalisten, Daten-Analystinnen und -Analysten (Statistiker-/innen, Mathematiker-/innen), Informationsarchitektinnen und -architekten, Usability-Spezialistinnen und -spezialisten und alle anderen ein, die etwas mit offenen Daten anstellen wollen.</p>
+
                         <p>Wenn Du teilnehmen möchtest, wäre es toll, wenn Du Dich vorab im Wiki in die <a href="http://wiki.opendataday.org/Cologne2013#Project_ideas" target="_blank">Liste der Teilnehmer</a> eintragen würdest. Gib dort den Link zu Deinem Twitter-Account an, und Du erscheinst <small>(mit etwas Verzögerung)</small> hier  mit Bild.</p>
                     </div>
                 </div>
@@ -275,6 +277,8 @@
                     </div>
                     <div class="span7 sponsorlogo">
                         <a href="http://www.nerdhub.de/" target="_blank"><img src="/img/nerdhub.png" width="200" height="100" alt="NERDHUB"></a>
+
+                        <a href="http://www.creative.nrw.de/" target="_blank"><img src="/img/creativenrw.png" width="250" height="100" alt="CREATIVE.NRW"></a>
                     </div>
                 </div>
 
