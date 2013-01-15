@@ -286,6 +286,15 @@
 
                 <div class="row">
                     <div class="span2 offset1 sponsorlabel">
+                        Die Verpflegung wird gestellt von
+                    </div>
+                    <div class="span7 sponsorlogo">
+                        <a href="http://railslove.com/" target="_blank"><img src="/img/railslove.png" width="228" height="70" alt=""></a>
+                    </div>
+                </div>
+                
+                <div class="row">
+                    <div class="span2 offset1 sponsorlabel">
                         Medienpartner
                     </div>
                     <div class="span7 sponsorlogo">
@@ -296,14 +305,6 @@
                 </div>
 
                 <!--
-                <div class="row">
-                    <div class="span2 offset1 sponsorlabel">
-                        Die Verpflegung wird gestellt von
-                    </div>
-                    <div class="span7 sponsorlogo">
-                        <img src="http://placehold.it/200x100" class="img-polaroid" width="200" height="100" alt=""> <img src="http://placehold.it/200x100" class="img-polaroid" width="200" height="100" alt="">
-                    </div>
-                </div>
                 <div class="row">
                     <div class="span2 offset1 sponsorlabel">
                         Den Preis für das Projekt des Tages stiftet
