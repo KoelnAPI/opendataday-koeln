@@ -289,7 +289,9 @@
                         Die Verpflegung wird gestellt von
                     </div>
                     <div class="span7 sponsorlogo">
-                        <a href="http://railslove.com/" target="_blank"><img src="/img/railslove.png" width="228" height="70" alt=""></a>
+                        <a href="http://railslove.com/" target="_blank"><img src="/img/railslove.png" width="228" height="70" alt="Railslove"></a>
+
+                        <a href="http://www.smart-ip.eu/" target="_blank"><img src="/img/smartip.png" width="179" height="194" alt="Smart IP"></a>
                     </div>
                 </div>
                 
