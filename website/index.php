@@ -240,7 +240,15 @@
                 <div class="row">
                     <div class="span9 offset1">
 
-                        <p>Du hast schon eine <strong>Idee, woran Du arbeiten möchtest</strong>? Dann trag diese bitte im <a href="http://wiki.opendataday.org/Cologne2013#Project_ideas" target="_blank">Wiki</a> ein. Damit kannst Du schon frühzeitig mögliche Mitstreiter für Dein Projekt motivieren.</p>
+                        <div class="well"><i class="icon-hand-right" style="margin-right: 5px"></i> <a href="http://wiki.opendataday.org/Cologne2013" target="_blank">Trag Dich als Teilnehmer ins Wiki ein!</a></div>
+
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="span9 offset1">
+
+                        <p>Du hast schon eine <strong>Idee, woran Du arbeiten möchtest</strong>? Dann trag diese bitte ebenfalls im <a href="http://wiki.opendataday.org/Cologne2013#Project_ideas" target="_blank">Wiki</a> ein. Damit kannst Du schon frühzeitig mögliche Mitstreiter für Dein Projekt motivieren.</p>
 
                         <p>Auch <strong>wenn Du noch nicht weißt</strong>, woran Du arbeiten könntest, könnte ein Blick ins Wiki hilfreich sein. Vielleicht inspirieren Dich die Ideen, die andere eingetragen haben, oder Du möchtest Dich direkt einem Projekt anschließen.</p>
 
