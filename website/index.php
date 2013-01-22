@@ -234,11 +234,7 @@
                         @include './participants.inc.html'
                         
                         ?>
-                    </div>
-                </div>
 
-                <div class="row">
-                    <div class="span9 offset1">
 
                         <div class="well"><i class="icon-hand-right" style="margin-right: 5px"></i> <a href="http://wiki.opendataday.org/Cologne2013" target="_blank">Trag Dich als Teilnehmer ins Wiki ein!</a></div>
 
