@@ -13,7 +13,7 @@ import sys
 OUTPUT_PATH = '/var/www/opendataday.koeln.de/opendataday-koeln/website/participants.inc.html'
 
 
-def get_twitter_users():
+def get_users():
     sections_url = 'http://wiki.opendataday.org/wiki/api.php?action=parse&text={{:Cologne2013}}__TOC__&prop=sections&format=json'
     section_url_mask = 'http://wiki.opendataday.org/wiki/api.php?action=parse&page=Cologne2013&section=%d&format=json'
     sections_json = urllib.urlopen(sections_url).read()
@@ -41,7 +41,7 @@ def get_twitter_user_info(username):
 
 
 if __name__ == '__main__':
-    twitter_users = get_twitter_users()
+    twitter_users = get_users()
     if len(twitter_users) == 0:
         sys.exit(1)
     f = open(OUTPUT_PATH, 'w')
@@ -55,3 +55,4 @@ if __name__ == '__main__':
             'Profilbild von ' + info['name'].encode('utf-8')
         ))
         f.write("\n")
+    f.write("<p><small>... und das sind nur die angemeldeten Teilnehmer mit Twitter-Account. Die komplette Liste findest genau hier:</small></p>\n")
