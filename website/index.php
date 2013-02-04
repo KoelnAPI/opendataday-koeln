@@ -479,7 +479,7 @@
                 <div class="row">
                     <div class="span2 offset1"><strong>OpenStreetMap</strong></div>
                     <div class="span8">
-                        <p>Nicht zuletzt bietet das OpenStreetmap-Projekt einen riesigen Bestand an nutzergenerierten, offen lizenzierten Geodaten.</p>
+                        <p>Nicht zuletzt bietet das <a href="http://www.openstreetmap.org/" target="_blank">OpenStreetmap-Projekt einen riesigen Bestand an nutzergenerierten, offen lizenzierten Geodaten. Neben <a href="http://wiki.openstreetmap.org/wiki/Download">Daten-Downloads</a> gibt sogar zwei APIs zur Auswahl (nämlich die <a href="http://wiki.openstreetmap.org/wiki/API_v0.6" target="_blank">API v0.6</a> und die <a href="http://wiki.openstreetmap.org/wiki/Overpass_API" target="_blank">Overpass API</a>).</p>
                     </div>
                 </div>
 
