@@ -175,7 +175,7 @@
                     </div>
                     <div class="span6">
                         <div><strong>Zwischenpräsentation und Preisverleihung</strong></div>
-                        <div>Jetzt wollen alle was sehen. Was habt Ihr geschafft? Jedes Team kann nun das Ergebnis seiner Arbeit präsentieren. Ihr alle bekommt die Möglichkeit, das beste Projekt des Tages zu küren. Auf das Gewinner-Team wartet ein noch zu bestimmender Sachpreis (für den wir noch einen Sponsoren suchen).</div>
+                        <div>Jetzt wollen alle was sehen. Was habt Ihr geschafft? Jedes Team kann nun das Ergebnis seiner Arbeit präsentieren. Ihr alle bekommt die Möglichkeit, das beste Projekt des Tages zu küren. Auf das Gewinner-Team warten Sachpreise vom O&apos;Reilly-Verlag.</div>
                     </div>
                 </div>
                 <div class="row">
@@ -266,14 +266,16 @@
 
                 <div class="row">
                     <div class="span2 offset1 sponsorlabel">
-                        Sponsoren gesucht
+                        Sachpreise werden gestiftet von
                     </div>
                     <div class="span7 sponsorlogo">
-                        <p>Hier könnte auch Dein/Ihr Logo stehen. Wir suchen Sponsoren für die Unterstützung bei den Verpflegungskosten.</p>
+                        <a href="http://www.oreilly.de/" target="_blank"><img src="/img/oreilly.png" width="290" height="65" alt="O&apos;Reilly"></a>
+
+                        <!--<p>Hier könnte auch Dein/Ihr Logo stehen. Wir suchen Sponsoren für die Unterstützung bei den Verpflegungskosten.</p>
 
                         <p>Eine besondere Sponsoring-Gelegenheit ist die Auszeichnung &raquo;Projekt des Tages&laquo;, die mit Sachpreisen belohnt werden soll.</p>
 
-                        <p>Kontakt:<br>Julia Schäfer, STARTPLATZ<br><i class="icon-bell"></i>&nbsp;<a href="tel:+49 221 975 802 00">+49 221 975 802 00</a><br><i class="icon-envelope"></i>&nbsp;<a href="mailto:julia.schaefer@startplatz.de">julia.schaefer@startplatz.de</a></p>
+                        <p>Kontakt:<br>Julia Schäfer, STARTPLATZ<br><i class="icon-bell"></i>&nbsp;<a href="tel:+49 221 975 802 00">+49 221 975 802 00</a><br><i class="icon-envelope"></i>&nbsp;<a href="mailto:julia.schaefer@startplatz.de">julia.schaefer@startplatz.de</a></p>-->
                     </div>
                 </div>
 
