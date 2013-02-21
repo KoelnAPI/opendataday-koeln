@@ -106,7 +106,9 @@
 
                         <p><i class="icon-time" title="Uhrzeit:"></i> ab 10:00 Uhr, Ende offen</p>
 
-                        <p><i class="icon-map-marker" title="Ort:"></i> <a href="http://www.coworkingcologne.de/" target="_blank">Coworking Cologne</a> (Adresse wird noch bekannt gegeben)</p>
+                        <p><i class="icon-map-marker" title="Ort:"></i> <a href="http://www.coworkingcologne.de/" target="_blank">Coworking Cologne Bottfabrik</a>, An der Bottmühle 5, 50678 Köln (Achtung! Neue Adresse in der Südstadt! - <a href="http://www.openstreetmap.org/?lat=50.922454&amp;lon=6.963583&amp;zoom=18&amp;layers=Q" target="_blank">OSM</a>, <a href="http://goo.gl/maps/dgdb3" target="_blank">GMaps</a>)
+
+                        <p><small>Erreichbar über die Stadtbahn-Haltestelle <strong>Uberring</strong>.</small></p>
 
                     </div>
 
@@ -190,20 +192,85 @@
 
                 <div class="row">
                     <div class="span8 offset2">
-
                         <h3>Sonntag, 24. Februar</h3>
-
                     </div>
-                    <div class="row">
+                </div>
+
+                <div class="row">
                     <div class="span2 offset2 time">
-                        <i class="icon-time"></i> <abbr title="To be defined">TBD</abbr>
+                        <i class="icon-time"></i> 10:00 Uhr
                     </div>
                     <div class="span6">
-                        <p><strong>Bauen, Reden, Lernen, Pizza und Bier</strong></p>
-                        <p>Am zweiten Tag könnt Ihr bei Coworking Cologne in entspannter Atmosphäre weiter an Euren Projekten Arbeiten, Workshops und Präsentationen anbieten - wie es Euch gefällt. Für das leibliche Wohl wird gesorgt. </p>
+                        <div><strong>Türen sind geöffnet</strong></div>
+                        <div>Wer lassen es langsam angehen.</div>
                     </div>
                 </div>
+
+                <div class="row">
+                    <div class="span2 offset2 time">
+                        <i class="icon-time"></i> 10:30 Uhr
+                    </div>
+                    <div class="span6">
+                        <div><strong>Hacken, Coden, Bauen</strong></div>
+                    </div>
                 </div>
+
+                <div class="row">
+                    <div class="span2 offset2 time">
+                        <i class="icon-time"></i> 13:00 Uhr
+                    </div>
+                    <div class="span6">
+                        <div><strong>Pizzaessen</strong></div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="span2 offset2 time">
+                        <i class="icon-time"></i> 13:30 Uhr
+                    </div>
+                    <div class="span6">
+                        <div><strong>Hacken, Coden, Bauen</strong></div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="span2 offset2 time">
+                        <i class="icon-time"></i> 16:00 Uhr
+                    </div>
+                    <div class="span6">
+                        <div><strong>Kaffeepause</strong></div>
+                        <div>Wer&apos;s braucht...</div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="span2 offset2 time">
+                        <i class="icon-time"></i> 16:30 Uhr
+                    </div>
+                    <div class="span6">
+                        <div><strong>Hacken, Coden, Bauen</strong></div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="span2 offset2 time">
+                        <i class="icon-time"></i> 19:30 Uhr
+                    </div>
+                    <div class="span6">
+                        <div><strong>Kleine Präsentationsrunde</strong></div>
+                        <div>Wir zeigen uns, was wir geschafft haben.</div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="span2 offset2 time">
+                        <i class="icon-time"></i> 20:00 Uhr
+                    </div>
+                    <div class="span6">
+                        <div><strong>Kölsch und Netzwerkeln</strong></div>
+                    </div>
+                </div>
+
             </div>
 
             
