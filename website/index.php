@@ -52,6 +52,26 @@
 
             <div class="section" id="start">
 
+                
+                <?php
+                $event_is_on = false;
+                $start = mktime(9, 0, 0, 2, 23, 2013);
+                $end = mktime(22, 0, 0, 2, 23, 2013);
+                $now = time();
+                $event_is_on = false;
+                if ($now > $start && $now < $end) {
+                    $event_is_on = true;
+                }
+                if ($event_is_on): ?>
+                <div class="row">
+                    <div class="span10 offset1">
+                        <div class="alert alert-info">
+                            Sei jetzt live mit dabei! Komm vorbei oder schau Dir den <strong><a href="http://www.nerdhub.de/blog/2013/2/20/22-open-data-day-livestream" target="_blank"> Live Stream</a></strong> an.
+                        </div>
+                    </div>
+                </div>
+                <?php endif; ?>
+
                 <div class="row">
                     <div class="span11 offset1">
                         
