@@ -110,7 +110,7 @@
 
                         <p><i class="icon-calendar" title="Datum:"></i> Samstag, 23. Februar 2013</p>
 
-                        <p><i class="icon-time" title="Uhrzeit:"></i> ab 9:30 bis spät (Ende wird noch festgelegt)</p>
+                        <p><i class="icon-time" title="Uhrzeit:"></i> ab 9:30 bis ca. 22 Uhr</p>
 
                         <p><i class="icon-map-marker" title="Ort:"></i> <a href="http://www.startplatz.de/" target="_blank">STARTPLATZ</a>, Mediapark 5, Köln (<a href="http://www.openstreetmap.org/?lat=50.94884&amp;lon=6.944647&amp;zoom=18&amp;layers=Q" target="_blank">OSM</a>, <a href="https://maps.google.de/maps?q=STARTPLATZ,+Mediapark+5,+K%C3%B6ln&amp;hl=de&amp;ie=UTF8&amp;sll=51.427085,7.663989&amp;sspn=6.399938,9.733887&amp;hq=STARTPLATZ,+Mediapark+5,&amp;hnear=K%C3%B6ln,+Nordrhein-Westfalen&amp;t=m&amp;z=15" target="_blank">GMaps</a>)</p>
 
@@ -222,7 +222,7 @@
                     </div>
                     <div class="span6">
                         <div><strong>Türen sind geöffnet</strong></div>
-                        <div>Wer lassen es langsam angehen.</div>
+                        <div>Wir lassen es langsam angehen.</div>
                     </div>
                 </div>
 
